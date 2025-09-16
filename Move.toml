@@ -1,0 +1,16 @@
+[package]
+name = "NFTartshowcase"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule="0x69c2b9bfe90216196ec6c9893f4f5c3b90cc70d5bf602da45a4393551ecd3bc7"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
