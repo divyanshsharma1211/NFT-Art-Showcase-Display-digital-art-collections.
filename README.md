@@ -1,4 +1,4 @@
-# NFT Art Showcase
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5e96e55b-445c-4fc8-8eec-fdb5d17bfd46" /># NFT Art Showcase
 
 ## Description
 
@@ -58,7 +58,8 @@ The NFT Art Showcase seeks to:
 - **Mobile SDK**: Native mobile app development support
 - **Analytics Dashboard**: Comprehensive analytics for collection performance
 - **Integration APIs**: Easy integration with existing NFT platforms and marketplaces
+### Transaction hash=0x0d0549e78453ccec1fe409ce95fa536acdb8ac0de564d7317e6c5689b1fd52b4
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e80ca3bf-9542-47b0-a790-f92a207d547f" />
 
----
 
 *NFT Art Showcase - Bringing digital art curation to the blockchain*
